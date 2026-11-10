@@ -1,7 +1,7 @@
-# Olá, me chamo Leonardo Paiva!
+# Olá, meu nome é Leonardo Paiva!
 Sou bacharel em administração com foco em análise de dados e processos no setor público e privado e aqui estão alguns dos meus principais projetos.
 
-## 📊 Meus Projetos de Power BI
+## 📊 Dashboards em Power BI
 *Clique nas imagens para acessar os painéis interativos.*
 
 <table>
