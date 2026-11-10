@@ -29,21 +29,15 @@ Sou bacharel em administração com foco em análise de dados e processos no set
 <table>
   <tr>
     <td width="50%">
-      <h3>Processo em construção)</h3>
-      <a href="COLOQUE_AQUI_O_LINK_DO_BIZAGI_1" target="_blank">
-        <img src="COLOQUE_AQUI_O_LINK_DA_IMAGEM_DO_BIZAGI_1.png" alt="Fluxo Bizagi em construção" width="100%">
+      <h3>Fluxograma Bizagi)</h3>
+      <a href="https://leobspaiva.github.io/Bizagi-fluxo-leil-es/#list" target="_blank">
+        <img src="COLOQUE_AQUI_O_LINK_DA_IMAGEM_DO_BIZAGI_1.png" alt="Fluxo Bizagi" width="100%">
       </a>
-      <p>Em construção.</p>
+      <p>Fluxo de um processo de desfazimento de bem passando por diferentes órgãos.</p>
     </td>
-    <td width="50%">
-      <h3>Processo em construção</h3>
-      <a href="COLOQUE_AQUI_O_LINK_DO_BIZAGI_2" target="_blank">
-        <img src="COLOQUE_AQUI_O_LINK_DA_IMAGEM_DO_BIZAGI_2.png" alt="Fluxo Bizagi em construção" width="100%">
-      </a>
-      <p>Em construção.</p>
-    </td>
-  </tr>
-</table>
+     </tr>
+   </table>
+     
 
 ---
 📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/leonardo-paiva-7358421a7/) | [E-mail](mailto:leonardospaiva.mkt@gmail.com)
