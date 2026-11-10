@@ -9,7 +9,7 @@ Sou bacharel em administração com foco em análise de dados e processos no set
     <td width="50%">
       <h3>Dashboard de Índice de Maturidade Organizacional</h3>
       <a href="https://app.powerbi.com/view?r=eyJrIjoiYTIyMjlmYjItZGE3Ny00OWY1LTkzODYtYjVmYWZiNWUyYmQzIiwidCI6IjY3ZmQ0MzFjLWIyYWQtNDg2Ny04MWJjLWQ3NTYyMjBiNTZkNCJ9" target="_blank">
-        <img src="COLOQUE_AQUI_O_LINK_DA_IMAGEM_DO_DASHBOARD_1.png" alt="Índice de Maturidade Organizacional" width="100%">
+        <img src="https://github.com/leobspaiva/projectsleobspaiva/blob/main/print-paienl-de-gest%C3%A3o.png" alt="Índice de Maturidade Organizacional" width="100%">
       </a>
       <p>Análise da maturidade da organização.</p>
     </td>
