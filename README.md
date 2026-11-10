@@ -31,7 +31,7 @@ Sou bacharel em administração com foco em análise de dados e processos no set
     <td width="50%">
       <h3>Fluxograma Bizagi)</h3>
       <a href="https://leobspaiva.github.io/Bizagi-fluxo-leil-es/#list" target="_blank">
-        <img src="COLOQUE_AQUI_O_LINK_DA_IMAGEM_DO_BIZAGI_1.png" alt="Fluxo Bizagi" width="100%">
+        <img src="https://github.com/leobspaiva/projectsleobspaiva/blob/main/print-bizagi.png" alt="Fluxo Bizagi" width="100%">
       </a>
       <p>Fluxo de um processo de desfazimento de bem passando por diferentes órgãos.</p>
     </td>
