@@ -16,7 +16,7 @@ Sou bacharel em administração com foco em análise de dados e processos no set
     <td width="50%">
       <h3>Painel de Compras e Pedidos</h3>
       <a href="https://app.powerbi.com/view?r=eyJrIjoiNDJlY2YyMTItOTg2Ny00N2QxLWFkNzEtNTg5NDBhMWVhNWFkIiwidCI6IjY3ZmQ0MzFjLWIyYWQtNDg2Ny04MWJjLWQ3NTYyMjBiNTZkNCJ9" target="_blank">
-        <img src="COLOQUE_AQUI_O_LINK_DA_IMAGEM_DO_DASHBOARD_2.png" alt="Painel de Compras e Pedidos" width="100%">
+        <img src="https://github.com/leobspaiva/projectsleobspaiva/blob/main/print-painel-pedidos.png" alt="Painel de Compras e Pedidos" width="100%">
       </a>
       <p>Monitoramento de pedidos de uma eventual aquisição.</p>
     </td>
